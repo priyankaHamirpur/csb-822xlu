@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://priyankahamirpur.github.io/csb-822xlu/static/css/main.ee2f6189.chunk.css",
+    "main.js": "https://priyankahamirpur.github.io/csb-822xlu/static/js/main.0805abe5.chunk.js",
+    "main.js.map": "https://priyankahamirpur.github.io/csb-822xlu/static/js/main.0805abe5.chunk.js.map",
+    "runtime-main.js": "https://priyankahamirpur.github.io/csb-822xlu/static/js/runtime-main.83af7b92.js",
+    "runtime-main.js.map": "https://priyankahamirpur.github.io/csb-822xlu/static/js/runtime-main.83af7b92.js.map",
+    "static/js/2.43e0dc53.chunk.js": "https://priyankahamirpur.github.io/csb-822xlu/static/js/2.43e0dc53.chunk.js",
+    "static/js/2.43e0dc53.chunk.js.map": "https://priyankahamirpur.github.io/csb-822xlu/static/js/2.43e0dc53.chunk.js.map",
+    "index.html": "https://priyankahamirpur.github.io/csb-822xlu/index.html",
+    "static/css/main.ee2f6189.chunk.css.map": "https://priyankahamirpur.github.io/csb-822xlu/static/css/main.ee2f6189.chunk.css.map",
+    "static/js/2.43e0dc53.chunk.js.LICENSE.txt": "https://priyankahamirpur.github.io/csb-822xlu/static/js/2.43e0dc53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83af7b92.js",
+    "static/js/2.43e0dc53.chunk.js",
+    "static/css/main.ee2f6189.chunk.css",
+    "static/js/main.0805abe5.chunk.js"
+  ]
+}
